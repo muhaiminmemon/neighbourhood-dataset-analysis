@@ -31,3 +31,7 @@ This Python script contains functions for analyzing health data for different ne
 - The script includes doctests that demonstrate the usage and expected output of each function.
 
 Make sure to provide the required data files and test the functions with your own datasets or use the provided sample data for testing.
+
+# Repository Description
+
+This repository contains Python scripts for analyzing neighborhood health data, including hypertension rates and low-income populations.
